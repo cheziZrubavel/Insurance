@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  color: green;
+  font-family: 'simpson';
+}
+
+form {
+  border: 2px solid cornflowerblue;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 0 auto;
+  width: 30vw;
+}
